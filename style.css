@@ -1,3 +1,32 @@
-#container1{
-	color: blue;
+h1{
+color: orange;
+font-family: sans-serif;
+text-align: center;
+}
+
+img {
+        
+        display: 
+        margin auto;
+      
+    }
+
+p {
+	text-align: center;
+	font-family: courier;
+	color:  black;
+
+}
+
+.box{
+background:#F0FFFF;
+height: 200px;
+width: 300px;
+margin: 20px;
+}
+.box-dua{
+background: navy;
+height: 100px;
+width: 200px;
+margin-left: 70px;
 }
