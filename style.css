@@ -1,4 +1,6 @@
+center {
 
+}
 
 html {
     height: 100%;
@@ -13,7 +15,7 @@ body {
 
 html{
     height:100%;
-    background: #ffffff url(https://lh3.googleusercontent.com/proxy/zmypWZkiyj3OsjKxa9rUbVH8jipc_jOr44VWGlDe57LPwC5LY0bfOvXFNUKmUGaz5KLCGjs9pmTUGz2U95EcwlnHbPZp6gSatUIIDo4wDzdUiqu65bEen-Kh81mglk_sfS-jtpXuhtSBKDBzIIcub_u64SeC); no-repeat center bottom fixed;
+    background: #ffffff url(https://stpeterineastgate.org.uk/wp-content/uploads/2016/11/evening_sky_by_asimakri-d5cl0lp.jpg); no-repeat center bottom fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -230,3 +232,4 @@ html{
     font-size:11px;
 }
 
+    
